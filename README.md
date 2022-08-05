@@ -5,10 +5,10 @@ projet test entre les membre de la classe B06
 
 ### section1
 ici je commence ...
-### section1
+### section2
 
 
-### section1
+### section3
 
 ## Projet 2 
 
