@@ -4,7 +4,7 @@ projet test entre les membre de la classe B06
 ## Projet1 
 
 ### section1
-du vraiment bon code ecrit par Kayleigh
+du vraiment super bon code ecrit par Kayleigh ...
 ### section2
 Merci pour l'invitation!
 
