@@ -22,4 +22,9 @@ ici je commence le projet 2
 ## Projet 3
 Merci pour l'invitation!
 Il fait bon de vivre ... 
+<<<<<<< HEAD
 J'ai installé Desktop GitHub
+=======
+
+--5555
+>>>>>>> af9f6460e9ce384ef4a4d52230fa420d509b8fe6
