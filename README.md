@@ -28,8 +28,14 @@ ici je commence le projet 2
 ## Projet 3
 
 Merci pour l'invitation!
+
+Il fait bon de vivre ... 
+
+## Projet 4
+test 
+
 Il fait bon de vivre ...
-<<<<<<< HEAD
+
 J'ai installé Desktop GitHub
 
 +++
