@@ -6,6 +6,7 @@ projet test entre les membre de la classe B06
 ### section1
 ici je commence ...
 ### section2
+Merci pour l'invitation!
 
 
 ### section3
